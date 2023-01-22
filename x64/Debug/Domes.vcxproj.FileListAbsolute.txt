@@ -1,0 +1,2 @@
+D:\CshS\Domes\x64\Debug\Domes.exe
+D:\WORK\C++\Domes\x64\Debug\Domes.exe
