@@ -8,14 +8,20 @@
 // including JsonCpp header file
 #include "Man.h"
 
+
 using namespace std;
 
 int main() {
     // Read serialized data from socket.
-    char buf[sizeof(Man)];
-    Man* msg = reinterpret_cast<Man*>(buf);
-
-    cout << "A = " << to_string(msg->name) << std::endl;
+	int arr[] = { 2,3,-4,5,6 };
+	/// <summary>
+	/// auto лучший оператор привет var и питон!!!!!!!!
+	/// </summary>
+	auto r = "d";
+	for (auto i : arr)
+	{
+		printf("%i %1i \n",+i, -i);
+	}
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
