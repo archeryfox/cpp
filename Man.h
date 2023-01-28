@@ -8,9 +8,9 @@ using namespace std;
 class Man
 {
 public:
-	int name = 2;
-	void dyn() {
-		cout << Man::name;
+	static double input(double i) {
+		cin >> i;
+		return i;
 	}
 	
 };

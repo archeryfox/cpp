@@ -1,2 +1,5 @@
 ﻿  Domes.cpp
+D:\WORK\C++\Domes\Domes.cpp(117,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\WORK\C++\Domes\Domes.cpp(108,9): warning C4101: a: неиспользованная локальная переменная
+D:\WORK\C++\Domes\Domes.cpp(109,9): warning C4101: b: неиспользованная локальная переменная
   Domes.vcxproj -> D:\WORK\C++\Domes\x64\Debug\Domes.exe
